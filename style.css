@@ -138,7 +138,7 @@ p{
 	font-size: 1.2rem;
 	text-align: center;
 }
-@media (min-width: 400px){
+@media (min-width: 600px){
 	.themain{
 		margin: 0;
 		padding: 0;
