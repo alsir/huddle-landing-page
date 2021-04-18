@@ -252,14 +252,4 @@ header button{
  	font-size: 0.9rem;
  	margin-left: 5%;
  }
- .rights .links-imgs{
- 	display: flex;
- 	flex-direction: row-reverse;
- 	margin-bottom: 10%;
- }
- .rights .links-imgs img{
- 	width: 25%;
- 	display: inline-block;
-
- }
 }
