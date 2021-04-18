@@ -88,6 +88,7 @@ p{
 	display: flex;
 	flex-direction: column;
 	margin: 5%;
+	margin-bottom: 10%;
 	transform:translateY(50%);
 	box-shadow: 2px 2px 2px 2px rgba(0,0,0, 0.5) ;
 }
