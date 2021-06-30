@@ -47,8 +47,9 @@ p{
 }
 .header{
 
-	background-image: url("./images/bg-hero-mobile.svg");
+    background-image: url("./images/bg-hero-mobile.svg");
     background-color: white;
+    object-fit:cover;
 }
 .div-1 button{
 	background-color: hsl(322, 100%, 66%);
